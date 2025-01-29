@@ -1,0 +1,72 @@
+Auteurs;Concepts;Dimensions;CODE;n� Etude 2;Items - traduction propos�e;r;?;R�ponses;Items origines
+Saks (1997);Personne Organization Fit;;POF1;19;Mon organisme/entreprise r�pond � mes besoins.;;;5 pts : Dans une tr?s faible mesure, Dans une faible mesure, Mod�r�ment, Dans une certaine mesure, Dans une tr?s large mesure;To what extent does the organization fulfil your needs?
+;;;POF2;22;Mon organisme/entreprise est un bon choix pour moi.;;;;To what extent is the organization a good match for you?
+;;;POF3;13;Mon organisme/entreprise correspond au type d'organisme/entreprise que je recherchais.;;;;To what extent does your new organization measure up to the kind of organization you were seeking
+Bentein (2005);Engagement affectif;;ENG1;15;J'�prouve un vrai sentiment d'appartenance � mon organisme/entreprise.;;.81;"5 pts : (1) totalement en d�saccord ; (2) en d�saccord ; (3) ni en accord, ni en d�saccord ; (4) d'accord ; (5) totalement en accord";
+;;;ENG2;24;"J'ai le sentiment de ""faire partie de la famille"" dans mon organisme/entreprise.";;;;
+;;;ENG3;20;Je suis fier(?re) d'appartenir � cet organisme/entreprise.;;;;
+;;;ENG4;14;Mon organisme/entreprise repr�sente beaucoup pour moi.;;;;
+;;;ENG5;21;Je ressens les probl?mes de mon organisme/entreprise exactement comme si c'�tait les miens.;;;;
+;;;ENG6;17;Je me sens affectivement attach�(e) � mon organisme/entreprise.;;;;
+Mayer et Davis (1999);Confiance envers l'organisme/entreprise;;CONF1;16;De fa�on g�n�rale, je fais confiance � mon organisme/entreprise;;.82;;I would be willing to let my firm have complete control over my future in the firm
+;;;CONF2;18;Cela ne me poserait aucun probl?me d'autoriser mon organisme/entreprise � prendre des d�cisions me concernant, m�me en mon absence;;;;I would be comfortable allowing the firm to make decisions that directly impact me, even in my absence
+;;;CONF3;23;J'accepterais de laisser mon organisme/entreprise choisir les orientations de ma carri?re.;;;X;Overall, I trust my firm
+Lee (2002);Comportement de citoyennet� organisme/entreprisenelle;Envers l'organisme/entreprise;OCBO1;55;Je vais au-del� de mes missions lorsque c'est positif pour l'image de mon organisme/entreprise.;;.83;7 pts : (1) never, (7) always;Attend functions that are not required but that help the organizational image
+;;;OCBO2;56;Je me tiens au courant des projets de mon organisme/entreprise.;;;;Keep up with developments in the organization
+;;;OCBO3;64;Je d�fends mon organisme/entreprise lorsque certains salari�s la critiquent.;;;;Defend the organization when other employees criticize it
+;;;OCBO4;61;Je suis fier(e) de parler � d'autres de mon organisme/entreprise.;;;;Show pride when representing the organization in public
+;;;OCBO5;62;Je suis force de propositions pour contribuer au bon fonctionnement de mon organisme/entreprise.;;;;Offer ideas to improve the functioning of the organization
+;;;OCBO6;59;J'exprime ma loyaut� envers mon organisme/entreprise.;;;;Express loyalty toward the organization
+;;;OCBO7;67;Si je le peux, j'agis pour �viter que mon organisme/entreprise rencontre des probl?mes.;;;;Take action to protect the organization from potential problems
+;;;OCBO8;65;Je manifeste des inqui�tudes lorsque l'image de mon organisme/entreprise est en jeu.;;;;Demonstrate concern about the image of the organization.
+;;Envers les individus;OCBI1;68;J'aide ceux qui ont �t� absent(e)s.;;.88;;Help others who have been absent.
+;;;OCBI2;60;Je donne volontairement de mon temps pour aider ceux qui ont des probl?mes au travail.;;;;Willingly give your time to help others who have work-related problems.
+;;;OCBI3;57;J'adapte mes horaires de travail pour faciliter les demandes de cong�s d?autres salari�s.;;;;Adjust your work schedule to accommodate other employees? requests for time off.
+;;;OCBI4;58;Je fais le maximum pour que les nouveaux salari�s soient bien int�gr�s au groupe de travail.;;;;Go out of the way to make newer employees feel welcome in the work group.
+;;;OCBI5;70;Je fais preuve de courtoisie envers mes coll?gues, m�me dans les situations professionnelles ou personnelles les plus difficiles..;;;;Show genuine concern and courtesy toward coworkers, even under the most trying business or personal situations.
+;;;OCBI6;69;Je donne de mon temps pour aider ceux qui ont des probl?mes professionnels ou personnels.;;;;Give up time to help others who have work or nonwork problems.
+;;;OCBI7;63;J'aide les autres dans leurs t�ches.;;;;Assist others with their duties
+;;;OCBI8;66;Je partage mes connaissances avec d'autres personnes pour les aider dans leur travail.;;;;Share personal property with others to help their work.
+Porath, Spreitzer, Cristina & Flannery (2012) ;Croissance professionnelle ?At work, ??;Vitalit�;CROI_VI1;75;? J'ai souvent l'occasion d'apprendre;;.92;7 pts : (1) strongly disagree to (7 ) strongly agree. We first computed a composite score for the vitality and for the learning components, which was the mean of the five items that captured vitality and learning, respectively. We asked respondents to assess their level of vitality and learning ?in relation to their work,? rather than ?more generally,? which would be more consistent with a dispositional measure.;? I find myself learning often
+;;;CROI_VI2;79;? Je continue � apprendre au fil du temps;;;;? I continue to learn more as time goes by
+;;;CROI_VI3;74;? J'ai le sentiment de m'am�liorer continuellement;;;;? I see myself continually improving
+;;;CROI_VI4;72;? J'ai l'impression de ne rien apprendre;R;;;? I am not learning (R)
+;;;CROI_VI5;77;? Je progresse personnellement;;;;? I am developing a lot as a person
+;;Apprentissage;CROI_APP1;80;? Je me sens vivant(e);;;;? I feel alive and vital
+;;;CROI_APP2;78;? J'ai de l'�nergie ;;;;? I have energy and spirit
+;;;CROI_APP3;73;? Je ne me sens pas tr?s actif(ve);R;;;? I do not feel very energetic (R)
+;;;CROI_APP4;76;? Je me sens alerte ;;;;? I feel alert and awake
+;;;CROI_APP5;71;? J'attends avec int�r�t chaque nouvelle journ�e;;;;? I am looking forward to each new day
+"Luthans, Youssef,    
+ et Avolio (2007)
+";PsyCap;Auto-efficacit� (3);PSYC_AUTO1;94;Je me sens capable de repr�senter un groupe de travail dont je fais partie;;;;
+;;;PSYC_AUTO2;96;Je me sens capable de contribuer � des discussions concernant la strat�gie des groupes avec lesquels je travaille ;;;;
+;;;PSYC_AUTO3;92;Je me sens capable de pr�senter des informations aux membres d?un groupe avec lequel je travaille;;;;
+;;Espoir (4);PSYC_ESP1;97;Si je rencontrais des difficult�s, je saurais trouver de nombreuses fa�ons de m?en sortir;;;;
+;;;PSYC_ESP2;86;Je peux imaginer diff�rents moyens pour atteindre mes objectifs;;;;
+;;;PSYC_ESP3;82;Actuellement, j?atteins g�n�ralement les objectifs que je m?�tais fix�s;;;;
+;;;PSYC_ESP4;93;En ce moment j?ai l?impression de r�ussir ce que j?entreprends;;;;
+;;Optimisme (2);PSYC_OPT1;90;Je vois toujours le bon c�t� des choses lorsqu?il s?agit de mon travail;;;;
+;;;PSYC_OPT2;83;Je suis optimiste sur ce qui m?arrivera sur le plan de mon avenir professionnel;;;;
+;;R�silience (3);PSYC_RES1;87;Je peux faire les choses seul(e) s?il le faut ;;;;
+;;;PSYC_RES2;89;J?aborde g�n�ralement les situations stressantes avec s�r�nit�;;;;
+;;;PSYC_RES3;84;Je peux traverser des �preuves difficiles parce que j?ai d�j� rencontr� des difficult�s auparavant;;;;
+"Haar (2013) : ?The following sections relate to your work, family, and life roles [if you have no children, family might still include partner, parents, siblings, friends, ?atmates, etc.]?. 
+";Equilibre vie professionnelle/vie priv�e;;EQUI1;91;Je suis satisfait(e) de l?�quilibre entre ma vie professionnelle et ma vie familiale;;.80;5 pts : 1=strongly disagree, 5 =strongly agree;I am satis?ed with my work?life balance, enjoying both roles
+;;;EQUI2;85;Aujourd?hui�j?appr�cie les diff�rents domaines de ma vie (ex: professionnel, personnel, familial) de mani?re �quivalente;;;;Nowadays, I seem to enjoy every part of my life equally well
+;;;EQUI3;95;Je parviens � �quilibrer correctement les exigences de ma vie professionnelle, personnelle et familiale;;;;I manage to balance the demands of my work and personal/family life well
+Tavani (2014);Satisfaction au travail;;SAT1;88;Globalement, je suis satisfait(e) de mon travail;;;"5 pts : (1) totalement en d�saccord ; (2) en d�saccord ; (3) ni en accord, ni en d�saccord ; (4) d'accord ; (5) totalement en accord";
+Cho (2009);Intention de rester;;INT_R;98;J'ai l'intention de rester dans cet organisme/entreprise.;;;;I desire and intend to remain at this company
+Cho (2009);Intention de partir;;INT_P;81;J'ai l'intention de quitter cet organisme/entreprise.;;;;I am likely to leave this organization within the next 12 months
+Sonnentag (2003);Besoin de r�cup�ration;;BES1;99;J?ai des difficult�s � me d�tendre apr?s une journ�e de travail. ;;;;
+;;;BES2;100;A la fin d?une journ�e de travail, je me sens vraiment us�(e).;;;;
+;;;BES3;101;A cause de mon activit� professionnelle, je me sens plut�t �puis�(e) en fin de journ�e.;;;;
+;;;BES4;102;Apr?s le d�ner, je me sens g�n�ralement en forme.;R;;;
+;;;BES5;103;En g�n�ral, je commence � me sentir d�tendu(e) seulement lors de mon deuxi?me jour de repos. ;;;;
+;;;BES6;104;Apr?s le travail, j?ai des difficult�s � me concentrer pendant mon temps libre. ;;;;
+;;;BES7;105;Je ne peux pas vraiment montrer de l?int�r�t aux autres lorsque je viens seulement de rentrer chez moi. ;;;;
+;;;BES8;106;G�n�ralement, j?ai besoin de plus d?une heure avant d?avoir le sentiment d?avoir compl?tement r�cup�r� apr?s le travail. ;;;;
+;;;BES9;107;Quand je rentre du travail, j?ai besoin qu?on me laisse tranquille pendant un moment.;;;;
+;;;BES10;108;Souvent, apr?s une journ�e de travail, je me sens tellement fatigu�(e) que je ne peux pas faire d?autres activit�s.;;;;
+;;;BES11;109;Durant la derni?re partie d?une journ�e de travail, un sentiment de fatigue m?emp�che de faire mon travail aussi bien que je le ferais en temps normal.;;;;
+?;;Work ability;;110;Comment jugez-vous votre capacit� de travail actuelle ?;;;;
